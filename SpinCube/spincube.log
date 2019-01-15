@@ -1,0 +1,88 @@
+﻿  InitShader.cpp
+c:\users\eda\downloads\edagur_0050488_assignment2 - kopya\spincube last\spincube\angel.h(64): warning C4305: 'başlatılıyor': 'double' iken 'GLfloat' olarak kesildi
+c:\users\eda\downloads\edagur_0050488_assignment2 - kopya\spincube last\spincube\mat.h(765): warning C4244: '=': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+c:\users\eda\downloads\edagur_0050488_assignment2 - kopya\spincube last\spincube\mat.h(766): warning C4244: '=': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+c:\users\eda\downloads\edagur_0050488_assignment2 - kopya\spincube last\spincube\mat.h(767): warning C4244: '=': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+c:\users\eda\downloads\edagur_0050488_assignment2 - kopya\spincube last\spincube\mat.h(788): warning C4244: '=': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+c:\users\eda\downloads\edagur_0050488_assignment2 - kopya\spincube last\spincube\mat.h(790): warning C4244: '=': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+c:\users\eda\downloads\edagur_0050488_assignment2 - kopya\spincube last\spincube\mat.h(793): warning C4244: '=': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+c:\users\eda\downloads\edagur_0050488_assignment2 - kopya\spincube last\spincube\mat.h(810): warning C4244: '=': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+  main.cpp
+c:\users\eda\downloads\edagur_0050488_assignment2 - kopya\spincube last\spincube\angel.h(64): warning C4305: 'başlatılıyor': 'double' iken 'GLfloat' olarak kesildi
+c:\users\eda\downloads\edagur_0050488_assignment2 - kopya\spincube last\spincube\mat.h(765): warning C4244: '=': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+c:\users\eda\downloads\edagur_0050488_assignment2 - kopya\spincube last\spincube\mat.h(766): warning C4244: '=': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+c:\users\eda\downloads\edagur_0050488_assignment2 - kopya\spincube last\spincube\mat.h(767): warning C4244: '=': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+c:\users\eda\downloads\edagur_0050488_assignment2 - kopya\spincube last\spincube\mat.h(788): warning C4244: '=': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+c:\users\eda\downloads\edagur_0050488_assignment2 - kopya\spincube last\spincube\mat.h(790): warning C4244: '=': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+c:\users\eda\downloads\edagur_0050488_assignment2 - kopya\spincube last\spincube\mat.h(793): warning C4244: '=': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+c:\users\eda\downloads\edagur_0050488_assignment2 - kopya\spincube last\spincube\mat.h(810): warning C4244: '=': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+c:\users\eda\downloads\edagur_0050488_assignment2 - kopya\spincube last\spincube\main.cpp(13): warning C4305: 'başlatılıyor': 'double' iken 'float' olarak kesildi
+c:\users\eda\downloads\edagur_0050488_assignment2 - kopya\spincube last\spincube\main.cpp(29): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+c:\users\eda\downloads\edagur_0050488_assignment2 - kopya\spincube last\spincube\main.cpp(30): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+c:\users\eda\downloads\edagur_0050488_assignment2 - kopya\spincube last\spincube\main.cpp(33): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+c:\users\eda\downloads\edagur_0050488_assignment2 - kopya\spincube last\spincube\main.cpp(34): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+c:\users\eda\downloads\edagur_0050488_assignment2 - kopya\spincube last\spincube\main.cpp(35): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+c:\users\eda\downloads\edagur_0050488_assignment2 - kopya\spincube last\spincube\main.cpp(36): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+c:\users\eda\downloads\edagur_0050488_assignment2 - kopya\spincube last\spincube\main.cpp(38): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+c:\users\eda\downloads\edagur_0050488_assignment2 - kopya\spincube last\spincube\main.cpp(39): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+c:\users\eda\downloads\edagur_0050488_assignment2 - kopya\spincube last\spincube\main.cpp(40): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+c:\users\eda\downloads\edagur_0050488_assignment2 - kopya\spincube last\spincube\main.cpp(41): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+c:\users\eda\downloads\edagur_0050488_assignment2 - kopya\spincube last\spincube\main.cpp(44): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+c:\users\eda\downloads\edagur_0050488_assignment2 - kopya\spincube last\spincube\main.cpp(45): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+c:\users\eda\downloads\edagur_0050488_assignment2 - kopya\spincube last\spincube\main.cpp(49): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+c:\users\eda\downloads\edagur_0050488_assignment2 - kopya\spincube last\spincube\main.cpp(50): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+c:\users\eda\downloads\edagur_0050488_assignment2 - kopya\spincube last\spincube\main.cpp(51): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+c:\users\eda\downloads\edagur_0050488_assignment2 - kopya\spincube last\spincube\main.cpp(52): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+c:\users\eda\downloads\edagur_0050488_assignment2 - kopya\spincube last\spincube\main.cpp(54): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+c:\users\eda\downloads\edagur_0050488_assignment2 - kopya\spincube last\spincube\main.cpp(55): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+c:\users\eda\downloads\edagur_0050488_assignment2 - kopya\spincube last\spincube\main.cpp(56): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+c:\users\eda\downloads\edagur_0050488_assignment2 - kopya\spincube last\spincube\main.cpp(57): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+c:\users\eda\downloads\edagur_0050488_assignment2 - kopya\spincube last\spincube\main.cpp(59): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+c:\users\eda\downloads\edagur_0050488_assignment2 - kopya\spincube last\spincube\main.cpp(60): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+c:\users\eda\downloads\edagur_0050488_assignment2 - kopya\spincube last\spincube\main.cpp(61): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+c:\users\eda\downloads\edagur_0050488_assignment2 - kopya\spincube last\spincube\main.cpp(62): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+c:\users\eda\downloads\edagur_0050488_assignment2 - kopya\spincube last\spincube\main.cpp(64): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+c:\users\eda\downloads\edagur_0050488_assignment2 - kopya\spincube last\spincube\main.cpp(65): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+c:\users\eda\downloads\edagur_0050488_assignment2 - kopya\spincube last\spincube\main.cpp(66): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+c:\users\eda\downloads\edagur_0050488_assignment2 - kopya\spincube last\spincube\main.cpp(67): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+c:\users\eda\downloads\edagur_0050488_assignment2 - kopya\spincube last\spincube\main.cpp(70): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+c:\users\eda\downloads\edagur_0050488_assignment2 - kopya\spincube last\spincube\main.cpp(71): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+c:\users\eda\downloads\edagur_0050488_assignment2 - kopya\spincube last\spincube\main.cpp(72): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+c:\users\eda\downloads\edagur_0050488_assignment2 - kopya\spincube last\spincube\main.cpp(73): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+c:\users\eda\downloads\edagur_0050488_assignment2 - kopya\spincube last\spincube\main.cpp(75): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+c:\users\eda\downloads\edagur_0050488_assignment2 - kopya\spincube last\spincube\main.cpp(76): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+c:\users\eda\downloads\edagur_0050488_assignment2 - kopya\spincube last\spincube\main.cpp(77): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+c:\users\eda\downloads\edagur_0050488_assignment2 - kopya\spincube last\spincube\main.cpp(78): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+c:\users\eda\downloads\edagur_0050488_assignment2 - kopya\spincube last\spincube\main.cpp(80): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+c:\users\eda\downloads\edagur_0050488_assignment2 - kopya\spincube last\spincube\main.cpp(81): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+c:\users\eda\downloads\edagur_0050488_assignment2 - kopya\spincube last\spincube\main.cpp(82): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+c:\users\eda\downloads\edagur_0050488_assignment2 - kopya\spincube last\spincube\main.cpp(83): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+c:\users\eda\downloads\edagur_0050488_assignment2 - kopya\spincube last\spincube\main.cpp(85): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+c:\users\eda\downloads\edagur_0050488_assignment2 - kopya\spincube last\spincube\main.cpp(86): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+c:\users\eda\downloads\edagur_0050488_assignment2 - kopya\spincube last\spincube\main.cpp(87): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+c:\users\eda\downloads\edagur_0050488_assignment2 - kopya\spincube last\spincube\main.cpp(88): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+c:\users\eda\downloads\edagur_0050488_assignment2 - kopya\spincube last\spincube\main.cpp(92): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+c:\users\eda\downloads\edagur_0050488_assignment2 - kopya\spincube last\spincube\main.cpp(93): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+c:\users\eda\downloads\edagur_0050488_assignment2 - kopya\spincube last\spincube\main.cpp(96): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+c:\users\eda\downloads\edagur_0050488_assignment2 - kopya\spincube last\spincube\main.cpp(97): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+c:\users\eda\downloads\edagur_0050488_assignment2 - kopya\spincube last\spincube\main.cpp(98): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+c:\users\eda\downloads\edagur_0050488_assignment2 - kopya\spincube last\spincube\main.cpp(99): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+c:\users\eda\downloads\edagur_0050488_assignment2 - kopya\spincube last\spincube\main.cpp(101): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+c:\users\eda\downloads\edagur_0050488_assignment2 - kopya\spincube last\spincube\main.cpp(102): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+c:\users\eda\downloads\edagur_0050488_assignment2 - kopya\spincube last\spincube\main.cpp(103): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+c:\users\eda\downloads\edagur_0050488_assignment2 - kopya\spincube last\spincube\main.cpp(104): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+c:\users\eda\downloads\edagur_0050488_assignment2 - kopya\spincube last\spincube\main.cpp(107): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+c:\users\eda\downloads\edagur_0050488_assignment2 - kopya\spincube last\spincube\main.cpp(108): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+c:\users\eda\downloads\edagur_0050488_assignment2 - kopya\spincube last\spincube\main.cpp(205): warning C4244: 'başlatılıyor': 'GLfloat' - 'int' dönüşümü; veri kaybı olabilir
+c:\users\eda\downloads\edagur_0050488_assignment2 - kopya\spincube last\spincube\main.cpp(206): warning C4244: 'bağımsız değişken': 'int' - 'const GLfloat' dönüşümü; veri kaybı olabilir
+c:\users\eda\downloads\edagur_0050488_assignment2 - kopya\spincube last\spincube\main.cpp(217): warning C4244: 'başlatılıyor': 'GLfloat' - 'int' dönüşümü; veri kaybı olabilir
+c:\users\eda\downloads\edagur_0050488_assignment2 - kopya\spincube last\spincube\main.cpp(218): warning C4244: 'bağımsız değişken': 'int' - 'const GLfloat' dönüşümü; veri kaybı olabilir
+c:\users\eda\downloads\edagur_0050488_assignment2 - kopya\spincube last\spincube\main.cpp(230): warning C4244: 'başlatılıyor': 'GLfloat' - 'int' dönüşümü; veri kaybı olabilir
+c:\users\eda\downloads\edagur_0050488_assignment2 - kopya\spincube last\spincube\main.cpp(231): warning C4244: 'bağımsız değişken': 'int' - 'const GLfloat' dönüşümü; veri kaybı olabilir
+c:\users\eda\downloads\edagur_0050488_assignment2 - kopya\spincube last\spincube\main.cpp(357): warning C4244: 'başlatılıyor': 'GLfloat' - 'int' dönüşümü; veri kaybı olabilir
+c:\users\eda\downloads\edagur_0050488_assignment2 - kopya\spincube last\spincube\main.cpp(392): warning C4554: '|': olası hata için işleç önceliğini denetleyin; önceliği netleştirmek için parantez kullanın
+c:\users\eda\downloads\edagur_0050488_assignment2 - kopya\spincube last\spincube\main.cpp(394): warning C4554: '|': olası hata için işleç önceliğini denetleyin; önceliği netleştirmek için parantez kullanın
+c:\users\eda\downloads\edagur_0050488_assignment2 - kopya\spincube last\spincube\main.cpp(439): warning C4244: 'bağımsız değişken': 'double' - 'const GLfloat' dönüşümü; veri kaybı olabilir
+c:\users\eda\downloads\edagur_0050488_assignment2 - kopya\spincube last\spincube\main.cpp(442): warning C4244: 'bağımsız değişken': 'double' - 'const GLfloat' dönüşümü; veri kaybı olabilir
+  Kod Üretiliyor...
+  spincube.vcxproj -> C:\Users\eda\Downloads\edagur_0050488_assignment2 - Kopya\spincube last\x64\Debug\spincube.exe
